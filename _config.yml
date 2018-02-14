@@ -1,0 +1,41 @@
+name: Melbourne Building Management
+analytics: {}
+github: true
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.7577512466814369
+color:
+  lightness: 0.6091642430983484
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  saturation: 0.180138127412647
+  brandStrength: 0.0018733271863311536
+  rhythmicContrast: 0.9115810296498239
+content_rating:
+  adult: false
+typography_spectrum: 0.16361451311968267
+opengraph: {}
+title: Melbourne Building Management
