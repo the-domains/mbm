@@ -1,3 +1,16 @@
+layout_spectrum: 0.3647849846962323
+typography_spectrum: 0.5742415373488375
+color:
+  lightness: 0.619430091221826
+  brandColors:
+    - '#41286E'
+    - '#C9C9C8'
+    - '#00FF00'
+    - '#FFFF00'
+    - '#FF00FF'
+  saturation: 0.630501977876843
+  brandStrength: 0.037564748210906246
+  rhythmicContrast: 0.09243689625358006
 name: Melbourne Building Management
 analytics: {}
 github: true
@@ -22,21 +35,8 @@ collections:
       format: rss
       number: 10
 content: []
-layout_spectrum: 0.7577512466814369
-color:
-  lightness: 0.6091642430983484
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  saturation: 0.180138127412647
-  brandStrength: 0.0018733271863311536
-  rhythmicContrast: 0.9115810296498239
 content_rating:
   adult: false
-typography_spectrum: 0.16361451311968267
 opengraph: {}
 title: Melbourne Building Management
 logo: >-
