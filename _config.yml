@@ -1,16 +1,16 @@
-layout_spectrum: 0.3647849846962323
-typography_spectrum: 0.5742415373488375
+layout_spectrum: 0.009361923252702645
+typography_spectrum: 0.10515002577270538
 color:
-  lightness: 0.619430091221826
+  lightness: 0.1944452767418052
   brandColors:
-    - '#41286E'
-    - '#C9C9C8'
-    - '#00FF00'
-    - '#FFFF00'
-    - '#FF00FF'
-  saturation: 0.630501977876843
-  brandStrength: 0.037564748210906246
-  rhythmicContrast: 0.09243689625358006
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  saturation: 0.7972765650439749
+  brandStrength: 0.1833966212667119
+  rhythmicContrast: 0.9007133924674317
 name: Melbourne Building Management
 analytics: {}
 github: true
